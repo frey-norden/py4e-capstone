@@ -1,1 +1,2 @@
 # py4e-capstone
+Python for Everybody Capstone is the culmination of skills built in the four previous courses in the specialization on python programming. In the capstone a series of projects will be completed in a collaborative style with the overall py4e learning community of students who have also completed the other courses. This repository will display my work for future employers, and serve as a hub for others to collaborate with me as well.
